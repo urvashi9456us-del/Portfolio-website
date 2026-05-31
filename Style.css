@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+}
+
+.container{
+    width:90%;
+    max-width:800px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    margin-top:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.profile{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+}
+
+h1,h2,h3{
+    text-align:center;
+}
+
+section{
+    margin-top:20px;
+}
